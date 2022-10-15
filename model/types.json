@@ -1,0 +1,95 @@
+[
+    {
+        "kitchName": "National foods 🍝",
+        "price": 50000,
+        "description": "Juda mazali",
+        "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.m.wikipedia.org%2Fwiki%2F%25D0%25A4%25D0%25B0%25D0%25B9%25D0%25BB%3AUzbek_Manti_(bright).jpg&psig=AOvVaw1vc5kL0qleY-JBib1BkV40&ust=1665924058960000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJjKq_Cg4voCFQAAAAAdAAAAABAD",
+        "name": "Manti"
+    },
+    {
+        "kitchName": "National foods 🍝",
+        "price": 50000,
+        "description": "Juda mazali",
+        "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.m.wikipedia.org%2Fwiki%2F%25D0%25A4%25D0%25B0%25D0%25B9%25D0%25BB%3AUzbek_Manti_(bright).jpg&psig=AOvVaw1vc5kL0qleY-JBib1BkV40&ust=1665924058960000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJjKq_Cg4voCFQAAAAAdAAAAABAD",
+        "name": "Osh"
+    },
+    {
+        "kitchName": "National foods 🍝",
+        "price": 50000,
+        "description": "Juda mazali",
+        "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.m.wikipedia.org%2Fwiki%2F%25D0%25A4%25D0%25B0%25D0%25B9%25D0%25BB%3AUzbek_Manti_(bright).jpg&psig=AOvVaw1vc5kL0qleY-JBib1BkV40&ust=1665924058960000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJjKq_Cg4voCFQAAAAAdAAAAABAD",
+        "name": "Norin"
+    },
+    {
+        "kitchName": "National foods 🍝",
+        "price": 50000,
+        "description": "Juda mazali",
+        "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.m.wikipedia.org%2Fwiki%2F%25D0%25A4%25D0%25B0%25D0%25B9%25D0%25BB%3AUzbek_Manti_(bright).jpg&psig=AOvVaw1vc5kL0qleY-JBib1BkV40&ust=1665924058960000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJjKq_Cg4voCFQAAAAAdAAAAABAD",
+        "name": "Qazi"
+    },
+    {
+        "kitchName": "European foods 🍖",
+        "price": 50000,
+        "description": "Juda mazali",
+        "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwhogrill.ru%2Fblog%2Fretsepty%2Fmyaso-i-ptitsa%2Ftsyplenok-tabaka.html&psig=AOvVaw1H6HjKX3OaW4q9xDufsnNE&ust=1665924330297000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOD9hvGh4voCFQAAAAAdAAAAABAE",
+        "name": "Tabaka"
+    },
+    {
+        "kitchName": "European foods 🍖",
+        "price": 50000,
+        "description": "Juda mazali",
+        "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwhogrill.ru%2Fblog%2Fretsepty%2Fmyaso-i-ptitsa%2Ftsyplenok-tabaka.html&psig=AOvVaw1H6HjKX3OaW4q9xDufsnNE&ust=1665924330297000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOD9hvGh4voCFQAAAAAdAAAAABAE",
+        "name": "Grill"
+    },
+    {
+        "kitchName": "European foods 🍖",
+        "price": 50000,
+        "description": "Juda mazali",
+        "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwhogrill.ru%2Fblog%2Fretsepty%2Fmyaso-i-ptitsa%2Ftsyplenok-tabaka.html&psig=AOvVaw1H6HjKX3OaW4q9xDufsnNE&ust=1665924330297000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOD9hvGh4voCFQAAAAAdAAAAABAE",
+        "name": "Bishteks"
+    },
+    {
+        "kitchName": "European foods 🍖",
+        "price": 50000,
+        "description": "Juda mazali",
+        "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwhogrill.ru%2Fblog%2Fretsepty%2Fmyaso-i-ptitsa%2Ftsyplenok-tabaka.html&psig=AOvVaw1H6HjKX3OaW4q9xDufsnNE&ust=1665924330297000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOD9hvGh4voCFQAAAAAdAAAAABAE",
+        "name": "Spagetti"
+    },
+
+    {
+        "kitchName": "Fast foods 🍔",
+        "price": 50000,
+        "description": "Juda mazali",
+        "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.campaignasia.com%2Farticle%2Fthe-top-10-fast-food-brands-in-asia-pacific%2F471528&psig=AOvVaw1mUdNtLya8t83XIY5Igmaw&ust=1665924371587000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNi41ISi4voCFQAAAAAdAAAAABAO",
+        "name": "Burger"
+    },
+    {
+        "kitchName": "Fast foods 🍔",
+        "price": 50000,
+        "description": "Juda mazali",
+        "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.campaignasia.com%2Farticle%2Fthe-top-10-fast-food-brands-in-asia-pacific%2F471528&psig=AOvVaw1mUdNtLya8t83XIY5Igmaw&ust=1665924371587000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNi41ISi4voCFQAAAAAdAAAAABAO",
+        "name": "Doner"
+    },
+    {
+        "kitchName": "Fast foods 🍔",
+        "price": 50000,
+        "description": "Juda mazali",
+        "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.campaignasia.com%2Farticle%2Fthe-top-10-fast-food-brands-in-asia-pacific%2F471528&psig=AOvVaw1mUdNtLya8t83XIY5Igmaw&ust=1665924371587000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNi41ISi4voCFQAAAAAdAAAAABAO",
+        "name": "Hot-dof"
+    },
+    {
+        "kitchName": "Fast foods 🍔",
+        "price": 50000,
+        "description": "Juda mazali",
+        "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.campaignasia.com%2Farticle%2Fthe-top-10-fast-food-brands-in-asia-pacific%2F471528&psig=AOvVaw1mUdNtLya8t83XIY5Igmaw&ust=1665924371587000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNi41ISi4voCFQAAAAAdAAAAABAO",
+        "name": "Shaurma"
+    },
+    {
+        "kitchName": "Sea foods 🍚",
+        "price": 50000,
+        "description": "Juda mazali",
+        "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ffb.ru%2Farticle%2F84545%2Fkak-narisovat-ryibu-karp-i-ne-tolko&psig=AOvVaw0iQA5dxF0XnRQEouS6w39o&ust=1665924420070000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJDj3Jui4voCFQAAAAAdAAAAABAT",
+        "name": "Sazan"
+    }
+  
+]
